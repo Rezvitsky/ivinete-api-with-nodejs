@@ -1,4 +1,4 @@
-# IVinete API with Nodejs
+# IVinete API Nodejs
 
 ## Project setup
 ```
